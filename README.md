@@ -7,7 +7,7 @@ Government College of Engineering, Tirunelveli
 
 ## 🚀 About Me
 
-I'm a passionate developer with a background in Electronics and Communication Engineering. I love building projects that challenge me and help me learn new technologies. My focus areas include backend development, networking, and creating tools that make a difference!
+I'm a passionate developer with a  little background in Electronics and Communication Engineering. I love building projects that challenge me and help me learn new technologies. My focus areas include backend development, networking, and creating tools that make a difference!
 
 ---
 
