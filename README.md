@@ -1,4 +1,4 @@
-# Hi there, I'm Karthick Raja 👋
+# Hi there, I'm Karthick Raja.K
 
 🎓 **BE ECE Graduate (2024)**  
 Government College of Engineering, Tirunelveli
