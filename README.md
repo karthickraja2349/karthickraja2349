@@ -22,10 +22,10 @@ I'm a passionate developer with a  little background in Electronics and Communic
 ## 🌟 Featured Projects
 
 - 🔗 [Online Compiler](https://github.com/karthickraja2349/online_compiler):  
-  A powerful, web-based compiler supporting multiple languages—built to help programmers test code online with ease.
+  A powerful, web-based compiler(without any prebuild things) supporting multiple languages—built to help programmers test code online with ease.
 
 - 🔗 [InstantVPN](https://github.com/karthickraja2349/InstantVPN):  
-  My own VPN solution for secure, private, and fast network connections.
+  My own VPN solution for secure, private, and fast network connections(without any prebuild things).
 
 ---
 
