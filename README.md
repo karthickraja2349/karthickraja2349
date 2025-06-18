@@ -30,11 +30,10 @@ I'm a passionate developer with a  little background in Electronics and Communic
 - 🔗 .[PlayCode](https://github.com/karthickraja2349/playCode);
    An Own Online Coding platform that supports for multiple users to be the part of of it.
   
-- 🔗 .[PlayCode](https://github.com/karthickraja2349/playCode);
-   An Own Online Coding platform that supports for multiple users to be the part of of it.
-  
  -🔗 .[Vplay](https://github.com/karthickraja2349/vplay);
-   A real-time video call web app with friend requests, notifications, and secure login with basic DJL BERT model. 
+   A real-time video call web app with friend requests, notifications, and secure login with basic DJL BERT model.
+  
+ 
   
   
 
